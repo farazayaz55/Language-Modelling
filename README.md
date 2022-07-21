@@ -1,5 +1,5 @@
 # Language-Modelling
-* Took the dataset **RealDonaldtrump.csv** and perform following operations on it </br>
+* Took the dataset **RealDonaldtrump.csv https://www.kaggle.com/code/nulldata/basic-nlp-with-trump-tweets/data** and perform following operations on it </br>
 1) Split your data into 80% training and 20% test sets. </br>
 
 2) Removed punctuation marks. But as the full stop is the sentence marker, keeping it in the text in case We need to tokenize sentences. </br>
